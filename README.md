@@ -2,11 +2,9 @@
 
 ## Background 
 The NASDAQ Composite is a stock market index that consists of the stocks on the NASDAQ stock exchange. It is one of the most followed stock indexes in the United States.
-In this project, I will be trying to predict the daily closing price change of the NASDAQ using over 40 different financial variables. These variables include commodities, treasury bills,
-currencies, futures, and stock prices of select large companies.
+In this project, I will be comparing the model performance of different linear models. These models will try to predict NASDAQ closing prices by using over 40 different financial variables. These variables include commodities, treasury bills, currencies, futures, and stock prices of select large companies.
 
-The linear models I will be using are Ridge Regression, Lasso Regression, Elastic Net Regression, and Random Forest. I will be comparing the performance of the different techniques
-using the R-squared values and the time it takes to calcualte each model. 
+The linear models I will be using are Ridge Regression, Lasso Regression, Elastic Net Regression, and Random Forest. I will be comparing the performance of the different techniques using the R-squared values and the time it takes to calcualte each model. 
 
 ## Results
 
